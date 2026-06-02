@@ -50,8 +50,7 @@ O dashboard apresenta os seguintes indicadores:
 
 O painel foi desenvolvido com uma identidade visual inspirada na marca Xbox, utilizando tons de verde, cards visuais e gráficos para facilitar a interpretação dos dados.
 
-[Preview do Dashboard]
-(imagens/preview-dashboard.png)
+![Preview do Dashboard](imagens/preview-dashboard.png)
 
 ## Ferramentas Utilizadas
 
